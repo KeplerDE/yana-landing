@@ -13,7 +13,7 @@ export default function Home() {
         title="Яна Осипова"
         subtitle="Персональный стилист — уверенность в себе через стиль"
         ctaText="Оставить заявку"
-        ctaSecondary="Первая консультация — бесплатно"
+        ctaSecondary=""
         backgroundImage="/images/hero.png"
       />
       <About />
